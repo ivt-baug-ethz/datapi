@@ -47,7 +47,7 @@ swiss_weather_codebook <- function()
 #'
 #' @return
 #' @export
-swiss_weather_data <- function()
+swiss_weather <- function()
 {
   url <- "https://data.geo.admin.ch/ch.meteoschweiz.klima/nbcn-tageswerte/liste-download-nbcn-d.csv"
   

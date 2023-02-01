@@ -2,6 +2,6 @@
 
 export("%>%")
 export(swiss_holidays)
+export(swiss_weather)
 export(swiss_weather_codebook)
-export(swiss_weather_data)
 importFrom(magrittr,"%>%")
